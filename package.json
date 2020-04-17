@@ -1,6 +1,6 @@
 {
-  "name": "miio-vacuum-nicoh88",
-  "version": "0.15.12",
+  "name": "miio-nicoh88",
+  "version": "0.1.0",
   "license": "MIT",
   "description": "Control mi robot vacuums for nicoh88/homebridge-xiaomi-roborock-vacuum",
   "main": "lib/index.js",
