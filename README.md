@@ -1,3 +1,10 @@
+## ARCHIVED
+
+This repo is archived as the mantainer of the original repo is no longer maintaining it and the necessary bits of this 
+fork are moved to a subfolder in https://github.com/homebridge-xiaomi-roborock-vacuum/homebridge-xiaomi-roborock-vacuum
+
+-----------------------
+
 # miIO Device Library
 
 [![npm version](https://badge.fury.io/js/miio.svg)](https://badge.fury.io/js/miio)
